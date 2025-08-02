@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { assets } from '../../assets/assets'
 import { AppContext } from '../../context/AppContext'
 
-const CalltoAction = () => {
+const CallToAction = () => {
   const {navigate} = useContext(AppContext)
   return (
     <div className='flex flex-col items-center gap-4 pt-10 pb-24 px-8 md:px-0'>
@@ -16,4 +16,4 @@ const CalltoAction = () => {
   )
 }
 
-export default CalltoAction
+export default CallToAction
