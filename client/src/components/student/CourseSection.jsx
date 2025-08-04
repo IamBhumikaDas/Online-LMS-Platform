@@ -10,17 +10,7 @@ const CourseSection = () => {
   return (
     <div className='py-16 md:px-40 px-8'>
     <h2 className='text-3xl font-medium text-gray-800'>Lear from the best</h2>
-    <p className='text-sm md:text-base text-gray-500 mt-3 '>Gain knowledge from expert instructors and industry leaders <br />with real-world experience.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
+    <p className='text-sm md:text-base text-gray-500 mt-3 '>Gain knowledge from expert instructors and industry leaders <br />with real-world experience.Ask ChatGPT
 </p>
    
 
