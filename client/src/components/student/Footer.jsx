@@ -4,11 +4,11 @@ import { assets } from '../../assets/assets'
 const Footer = () => {
   return (
     <footer className='bg-gray-900 md:px-36 text-left w-full mt-10'>
-<div className='flex flex-col md:flex-row items-center px-8 md:px-0 justify-center gap-10 md:gap-32 py-10 border-b border-white/30'>
+<div className='flex flex-col md:flex-row items-center px-8 md:px-0 justify-center gap-10 md:gap-32 pt-0 pb-5 border-b border-white/30'>
 <div className='flex flex-col md:items-start items-center w-full '>
-  <img src={assets.logo_dark} alt="logo" />
+  <img className='h-24 md:h-28' src={assets.logo_dark} alt="logo" />
 
-<p className='mt-6 text-center md:text-left text-sm text-white/80'>Edemy is your go-to platform for flexible, expert-led online learning. Whether you're a student, professional, or curious learner, our courses are designed to help you build skills, achieve goals, and grow at your own pace. Anytime, anywhere—unlock your potential with Edemy.
+<p className='mt-0 text-center md:text-left text-sm text-white/80'>Edemy is your go-to platform for flexible, expert-led online learning. Whether you're a student, professional, or curious learner, our courses are designed to help you build skills, achieve goals, and grow at your own pace. Anytime, anywhere—unlock your potential with Edemy.
 
 </p>
 </div>
