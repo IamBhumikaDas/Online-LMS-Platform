@@ -15,9 +15,9 @@ import course_3_thumbnail from './course_3.png'
 import course_4_thumbnail from './course_4.png'
 import star from './rating_star.svg'
 import star_blank from './star_dull_icon.svg'
-import profile_img_1 from './profile_img_1.png'
-import profile_img_2 from './profile_img_2.png'
-import profile_img_3 from './profile_img_3.png'
+import profile_img_1 from './testimonial.png'
+import profile_img_2 from './testimonial_2.png'
+import profile_img_3 from './testimonial_3.png'
 import arrow_icon from './arrow_icon.svg'
 import down_arrow_icon from './down_arrow_icon.svg'
 import time_left_clock_icon from './time_left_clock_icon.svg'
@@ -103,25 +103,25 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
     {
-        name: 'Donald Jackman',
-        role: 'SWE 1 @ Amazon',
+        name: 'Mahira Pandey',
+        role: ' B.Tech Student (Computer Science)',
         image: assets.profile_img_1,
         rating: 5,
         feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
     },
     {
-        name: 'Richard Nelson',
-        role: 'SWE 2 @ Samsung',
+        name: 'Akash Chatterjee',
+        role: ' MBA Aspirant',
         image: assets.profile_img_2,
         rating: 4,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'This LMS made my study routine so much easier. The video lectures are clear, and I love how I can learn at my own pace.',
     },
     {
-        name: 'James Washington',
-        role: 'SWE 2 @ Google',
+        name: 'Kriti Sinha',
+        role: 'BCA Final Year Student',
         image: assets.profile_img_3,
         rating: 4.5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'Very helpful platform! The mock tests and notes helped me stay focused and confident before exams..',
     },
 ];
 
