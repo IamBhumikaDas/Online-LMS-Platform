@@ -8,7 +8,7 @@ const Footer = () => {
 <div className='flex flex-col md:items-start items-center w-full '>
   <img className='h-24 md:h-28' src={assets.logo_dark} alt="logo" />
 
-<p className='mt-0 text-center md:text-left text-sm text-white/80'>Edemy is your go-to platform for flexible, expert-led online learning. Whether you're a student, professional, or curious learner, our courses are designed to help you build skills, achieve goals, and grow at your own pace. Anytime, anywhere—unlock your potential with Edemy.
+<p className='mt-0 text-center md:text-left text-sm text-white/80'>BORCELLE is your go-to platform for flexible, expert-led online learning. Whether you're a student, professional, or curious learner, our courses are designed to help you build skills, achieve goals, and grow at your own pace. Anytime, anywhere—unlock your potential with Edemy.
 
 </p>
 </div>
